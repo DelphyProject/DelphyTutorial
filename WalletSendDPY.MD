@@ -4,7 +4,7 @@
 
 ## 钱包生成
 
-要使用钱包接收或发送DPY，你首先要拥有一个以太坊钱包。以太坊钱包的生成请参考[该教程](.\WalletGeneration.MD)。
+要使用钱包接收或发送DPY，你首先要拥有一个以太坊钱包。以太坊钱包的生成请参考[该教程](./WalletGeneration.MD)。
 
 ## 添加DPY代币信息
 
@@ -12,7 +12,7 @@
 
 ![Send](./imgs/MEW_Send.png)
 
-*如果不清楚如果解锁，请参考[该教程](.\WalletGeneration.MD)。*
+*如果不清楚如果解锁，请参考[该教程](./WalletGeneration.MD)。*
 
 找到Token配置的区域：
 
